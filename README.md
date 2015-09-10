@@ -1,5 +1,5 @@
 # google-homepage
-the odin project Google homepage html rebuild
+The odin project Google homepage html rebuild
 
 This is a project to rebuild the Google homepage using html.
 
